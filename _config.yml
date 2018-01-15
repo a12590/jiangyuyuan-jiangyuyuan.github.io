@@ -1,0 +1,8 @@
+title: Jiangyuyuan-jiangyuyuan.GitHub.io
+description: github
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
